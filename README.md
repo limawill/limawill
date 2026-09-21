@@ -14,14 +14,14 @@
 
 ```
   ╔══════════════════════════════════════════════════════════════╗
-  ║  ██████╗ ██╗   ██╗██╗██╗     ██████╗     ███████╗██████╗   ║
-  ║  ██╔══██╗██║   ██║██║██║     ██╔══██╗    ██╔════╝██╔══██╗  ║
-  ║  ██████╔╝██║   ██║██║██║     ██║  ██║    █████╗  ██████╔╝  ║
-  ║  ██╔══██╗██║   ██║██║██║     ██║  ██║    ██╔══╝  ██╔══██╗  ║
-  ║  ██████╔╝╚██████╔╝██║███████╗██████╔╝    ███████╗██║  ██║  ║
-  ║  ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚══════╝╚═╝  ╚═╝  ║
-  ║                                                              ║
-  ║           ENGINEERING SOLUTIONS SINCE 2010 ▪ SÃO PAULO BR  ║
+  ║  ██████╗ ██╗   ██╗██╗██╗     ██████╗     ███████╗██████╗       ║
+  ║  ██╔══██╗██║   ██║██║██║     ██╔══██╗    ██╔════╝██╔══██╗      ║
+  ║  ██████╔╝██║   ██║██║██║     ██║  ██║    █████╗  ██████╔╝      ║
+  ║  ██╔══██╗██║   ██║██║██║     ██║  ██║    ██╔══╝  ██╔══██╗      ║
+  ║  ██████╔╝╚██████╔╝██║███████╗██████╔╝    ███████╗██║  ██║     ║
+  ║  ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚══════╝╚═╝  ╚═╝     ║
+  ║                                                                   ║
+  ║           ENGINEERING SOLUTIONS SINCE 2010 ▪ SÃO PAULO BR          ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -121,27 +121,27 @@ directive: "Build. Automate. Evolve."
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  ASSEMBLY LOG  //  limawill ▸ boot sequence                    │
-│  DATE: 2025  ▪  LOCATION: São Paulo, BR                        │
+│  ASSEMBLY LOG  //  limawill ▸ boot sequence                           │
+│  DATE: 2025  ▪  LOCATION: São Paulo, BR                               │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  [▸] CORE ENGINE .......... Python | Java | Go | C/C++ | Ruby  │
-│  [▸] WEB LAYER ............ Flask | FastAPI | Spring | Play    │
-│  [▸] DATA PIPELINE ........ Pandas | Anaconda | Jupyter        │
-│  [▸] AI MODULE ............ Gemini | WhisperX | LLM Agents     │
-│  [▸] INFRA STACK .......... Docker | Kubernetes | AWS          │
-│  [▸] PERSISTENCE .......... PostgreSQL | MongoDB | MySQL       │
-│  [▸] ASYNC QUEUE .......... Redis | Celery                     │
-│  [▸] SECURITY LAYER ....... JWT | RSA Crypto | Agile/SCRUM     │
-│                                                                 │
+│                                                                       │
+│  [▸] CORE ENGINE .......... Python | Java | Go | C/C++ | Ruby         │
+│  [▸] WEB LAYER ............ Flask | FastAPI | Spring | Play           │
+│  [▸] DATA PIPELINE ........ Pandas | Anaconda | Jupyter               │
+│  [▸] AI MODULE ............ Gemini | WhisperX | LLM Agents            │
+│  [▸] INFRA STACK .......... Docker | Kubernetes | AWS                 │
+│  [▸] PERSISTENCE .......... PostgreSQL | MongoDB | MySQL              │
+│  [▸] ASYNC QUEUE .......... Redis | Celery                            │
+│  [▸] SECURITY LAYER ....... JWT | RSA Crypto | Agile/SCRUM            │
+│                                                                       │
 ├─────────────────────────────────────────────────────────────────┤
-│  ROLE      ▸  Senior Software Engineer                         │
-│  COMPANY   ▸  Mirante Tecnologia → Petrobras                   │
-│  BUILDING  ▸  Anamnesys AI — Medical AI Platform               │
-│  STUDYING  ▸  AI Agents  |  Kubernetes                         │
-│  MBA       ▸  Data Science & Analytics — USP/Esalq             │
+│  ROLE      ▸  Senior Software Engineer                                │
+│  COMPANY   ▸  Mirante Tecnologia → Petrobras                          │
+│  BUILDING  ▸  Anamnesys AI — Medical AI Platform                      │
+│  STUDYING  ▸  AI Agents  |  Kubernetes                                │
+│  MBA       ▸  Data Science & Analytics — USP/Esalq                    │
 ├─────────────────────────────────────────────────────────────────┤
-│  SYSTEM STATUS  ▸  [████████████████████]  OPERATIONAL  ✔      │
+│  SYSTEM STATUS  ▸  [████████████████████]  OPERATIONAL  ✔           │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -153,10 +153,10 @@ directive: "Build. Automate. Evolve."
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
-  │  ▸ PROJECT   :  ANAMNESYS AI                                │
-  │  ▸ TYPE      :  Medical AI Platform                         │
-  │  ▸ VERSION   :  0.9-beta                                    │
-  │  ▸ PROGRESS  :  [████████████░░░░]  75%  IN DEVELOPMENT     │
+  │  ▸ PROJECT   :  ANAMNESYS AI                                      │
+  │  ▸ TYPE      :  Medical AI Platform                               │
+  │  ▸ VERSION   :  0.9-beta                                          │
+  │  ▸ PROGRESS  :  [████████████░░░░]  75%  IN DEVELOPMENT          │
   └──────────────────────────────────────────────────────────────┘
 ```
 
